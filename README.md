@@ -4,8 +4,6 @@ Feed Reader Testing project utiliz Jasmine a behavior-driven development framewo
 
 #### Viewing & Running the project
 
-* To view the project [online](https://yhelenfrontweb.github.io/Feedreader/) 
-
 * To run it download or Clone the repository.
 
 * Open `index.html` in the browser.
